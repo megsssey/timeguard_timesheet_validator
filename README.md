@@ -7,7 +7,7 @@
 
 Built with **FastAPI** (backend) + **React** (frontend).  
 
-## 📦 Project Setup
+##  Project Setup
 
 ### 1. Clone the Repository
 git clone https://github.com/megsssey/timeguard_timesheet_validator.git
@@ -25,7 +25,7 @@ cd frontend
 npm install
 npm start
 Frontend will run on [**http://localhost:3000**](http://localhost:3000)
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Python, FastAPI, Pandas
 - **Frontend:** React
