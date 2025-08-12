@@ -1,6 +1,6 @@
 # TimeGuard – Timesheet Validator
 
-**TimeGuard** is a web app that compares a CSV timesheet upload against a mock (or real) calendar export and highlights:
+**TimeGuard** is a web app that compares a CSV timesheet upload against a mock calendar export and highlights:
 
  -> **Missing Entries** → In calendar but not in timesheet  
  -> **Extra Entries** → In timesheet but not in calendar  
