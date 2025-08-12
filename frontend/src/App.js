@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   // State to store the selected file from input
@@ -48,7 +50,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div className="container">
       <h1>TimeGuard</h1>
 
       {/* File input for user to select timesheet CSV */}
