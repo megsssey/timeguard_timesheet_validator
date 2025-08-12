@@ -34,6 +34,6 @@ Frontend will run on [**http://localhost:3000**](http://localhost:3000)
 ##  Video
 
 ### UI – Validation Report
-https://drive.google.com/file/d/1cS0H8qx6bRi-2iKVgDSVI0Uz70LHELHA/view?usp=sharing
+https://drive.google.com/file/d/1lZRfO9c1K5bezs6sKU2Db5eV9t6xWNvV/view?usp=sharing
 
 
