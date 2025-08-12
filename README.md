@@ -31,9 +31,9 @@ Frontend will run on [**http://localhost:3000**](http://localhost:3000)
 - **Frontend:** React
 - **Data Format:** CSV + JSON
 
-## 📸 Video
+##  Video
 
 ### UI – Validation Report
-![Validation Report]("C:\Users\MY PC\OneDrive\Desktop\validation report video.mp4")
+[![Validation Report]("C:\Users\MY PC\OneDrive\Desktop\validation report video.mp4")](https://drive.google.com/file/d/1lZRfO9c1K5bezs6sKU2Db5eV9t6xWNvV/view?usp=sharing)
 
 
